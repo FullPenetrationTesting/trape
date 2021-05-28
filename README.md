@@ -75,15 +75,15 @@ How to use it
 -------
  First unload the tool.
 ```
-git clone https://github.com/
-cd trape
+git clone https://github.com/FullPenetrationTesting/trape-fork.git
+cd trape-fork
 pip3 install requirenments.txt
 
 For Automatic Configuration (NOT Working) use Manual Configuration
 python3 trape.py
 
 For manual Configuration
-cd trape 
+cd trape-fork
 nano trape.config
 
 manually conig setup
