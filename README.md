@@ -1,5 +1,5 @@
 # trape-fork
-Trape-forked in python3 Completely by me :) no error just follow readme.
+Trape-forked in python3 by me :) no error just follow readme.
 trape (stable) v2.0 forked in python3 by (vicky)
 ========
 
