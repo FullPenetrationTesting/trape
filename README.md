@@ -86,7 +86,7 @@ For manual Configuration
 cd trape-fork
 nano trape.config
 
-manually conig setup
+manually config setup
 nano trape.config
 "ngrok_token" : "paste-token-here",
 "gmaps_api_key" : "paste-token-here",
