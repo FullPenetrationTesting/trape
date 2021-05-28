@@ -99,6 +99,8 @@ Example of execution
 ```
 Example: python3 trape.py --url http://example.com --port 8080
 ```
+IF YOU FACE ERROR OF ./ngrok Permission Denied then,
+chmod +x ngrok
 **HELP  AND OPTIONS**
 ```
 user:~$ python3 trape.py --help
