@@ -104,7 +104,7 @@ chmod +x ngrok
 **HELP  AND OPTIONS**
 ```
 user:~$ python3 trape.py --help
-usage: python trape.py -u <> -p <> [-h] [-v] [-u URL] [-p PORT]
+usage: python3 trape.py -u <> -p <> [-h] [-v] [-u URL] [-p PORT]
                                               [-ak ACCESSKEY] [-l LOCAL]
                                               [--update] [-n] [-ic INJC]
 
