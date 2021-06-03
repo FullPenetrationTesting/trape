@@ -75,7 +75,7 @@ How to use it
 -------
  First unload the tool.
 ```
-git clone https://github.com/FullPenetrationTesting/trape-fork.git
+git clone https://github.com/FullPenetrationTesting/trape.git
 cd trape-fork
 pip3 install requirenments.txt
 
